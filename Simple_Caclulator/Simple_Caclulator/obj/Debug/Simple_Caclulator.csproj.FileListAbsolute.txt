@@ -1,0 +1,11 @@
+C:\Github\Simple_Calculator\Simple_Caclulator\Simple_Caclulator\bin\Debug\Simple_Caclulator.exe.config
+C:\Github\Simple_Calculator\Simple_Caclulator\Simple_Caclulator\bin\Debug\Simple_Caclulator.exe
+C:\Github\Simple_Calculator\Simple_Caclulator\Simple_Caclulator\bin\Debug\Simple_Caclulator.pdb
+C:\Github\Simple_Calculator\Simple_Caclulator\Simple_Caclulator\obj\Debug\Simple_Caclulator.csproj.AssemblyReference.cache
+C:\Github\Simple_Calculator\Simple_Caclulator\Simple_Caclulator\obj\Debug\Simple_Caclulator.csproj.SuggestedBindingRedirects.cache
+C:\Github\Simple_Calculator\Simple_Caclulator\Simple_Caclulator\obj\Debug\Simple_Caclulator.Properties.Resources.resources
+C:\Github\Simple_Calculator\Simple_Caclulator\Simple_Caclulator\obj\Debug\Simple_Caclulator.csproj.GenerateResource.cache
+C:\Github\Simple_Calculator\Simple_Caclulator\Simple_Caclulator\obj\Debug\Simple_Caclulator.csproj.CoreCompileInputs.cache
+C:\Github\Simple_Calculator\Simple_Caclulator\Simple_Caclulator\obj\Debug\Simple_Caclulator.exe
+C:\Github\Simple_Calculator\Simple_Caclulator\Simple_Caclulator\obj\Debug\Simple_Caclulator.pdb
+C:\Github\Simple_Calculator\Simple_Caclulator\Simple_Caclulator\obj\Debug\Simple_Caclulator.Simple_Calc.resources
